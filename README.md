@@ -12,7 +12,4 @@ A Delphi project to ensure single-instance execution with administrator privileg
 
 
 ## Usage
-1. Run OneInstanceAdmin.exe
-2.1. Clone the repository.
-2.2. Open the project in your Delphi IDE.
-2.3. Build and run the application.
+Run OneInstanceAdmin.exe OR Clone the repository / Open the project in your Delphi IDE / Build and run the application.
