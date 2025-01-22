@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  onerun2createmutex:
+    image: onerun2createmutex
+    build:
+      context: .
+      dockerfile: ./Dockerfile
